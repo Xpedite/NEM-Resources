@@ -16,6 +16,7 @@
 
 - [NEMAndroidApp](https://github.com/NemProject/NEMAndroidApp) - NEM Android Wallet Application
 - [NEMiOSApp](https://github.com/NemProject/NEMiOSApp) - NEM iOS Wallet Application
+- [NEMPay](https://github.com/dgarcia360/NEMPay) - Adaptable Android & iOS Mosaic Wallet
 
 ## Paper Wallets
 
