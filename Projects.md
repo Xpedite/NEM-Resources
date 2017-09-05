@@ -16,6 +16,7 @@
 
 - [NEMAndroidApp](https://github.com/NemProject/NEMAndroidApp) - NEM Android Wallet Application
 - [NEMiOSApp](https://github.com/NemProject/NEMiOSApp) - NEM iOS Wallet Application
+- [NEMPay](https://github.com/dgarcia360/NEMPay) - Adaptable Android & iOS Mosaic Wallet
 
 ## Paper Wallets
 
@@ -41,3 +42,4 @@ https://github.com/AtrauraBlockchain/Landstead
 - [MultisigTransactionSigner](https://github.com/kodty/MultisigTransactionSigner): A simple bot for signing XEM multisignature transactions with optional signing rules. MIT License
 - [nemtelegrambot](https://github.com/davidebenato/nemtelegrambot): This telegram bot allows users to subscribe to specific NEM wallets and sending them a message upon activity on that wallet. Check the official [blog entry](https://blog.nem.io/creating-a-telegram-monitor-bot/). MIT License
 - [nem-tip-bot](https://github.com/daifukunem/nem-tip-bot): A NEM tip bot for reddit written using Node.js. Will be the first trustless tipping bot when multi-sig support is implemented.
+
