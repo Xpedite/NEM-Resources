@@ -1,4 +1,4 @@
-# Index
+﻿# Index
 
 1. Technical Data
 2. Language specific documentation
@@ -38,8 +38,10 @@
 - [nem.core](https://github.com/NemProject/nem.core) - org.nem.core package **(OFFICIAL)**
 - [nem.modules](https://github.com/NemProject/nem.modules) - collection of community nem modules
 - [nem-apps](https://github.com/NEMChina/nem-apps) - Initiate and monitor transactions
-
 - [NEM-NIS-API-Java-Sample](https://github.com/tomotomo9696/NEM-NIS-API-Java-Sample)
+- [nem-apps-lib](https://github.com/NEMPH/nem-apps-lib) - Semantic Java API Library for NEM Platform
+- [nem-transaction-monitor](https://github.com/NEMPH/nem-transaction-monitor) - Library for monitoring transactions in NEM Blockchain platform
+- [nem-fiatxem-converter](https://github.com/NEMChina/nem-apps) - A Quick way to convert XEM to FIAT and Vice Versa
 
 ### C sharp
 
